@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/compactobjects/__init__.py
+src/compactobjects/bisection.py
+src/compactobjects/compact_star.py
+src/compactobjects/eos.py
+src/compactobjects/read_eos.py
+src/compactobjects/utils.py
+src/compactobjects.egg-info/PKG-INFO
+src/compactobjects.egg-info/SOURCES.txt
+src/compactobjects.egg-info/dependency_links.txt
+src/compactobjects.egg-info/requires.txt
+src/compactobjects.egg-info/top_level.txt

@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: compactobjects
+Version: 0.1.0
+Summary: A package for studying astrophysical compact objects.
+Home-page: https://github.com/matteotagliazucchi/compactobjects
+Author: Matteo Tagliazucchi
+Author-email: matteo.tagliazucchi@protonmail.com
+License: None
+Classifier: Development Status :: 1 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: astropy
